@@ -22,7 +22,7 @@ Además del análisis detallado de la exploración de los datos, estas son las d
 ​2. Implementar un modelo de regresión con aprendizaje supervisado que permita predecir el precio final de los vehículos, utilizando los datos que se han puesto a su disposición.
 
 ## Dataset 🚗
-El dataset se encuentra en el siguiente ![enlace](/Predicion_precios/ML_cars.csv)
+El dataset se encuentra en el siguiente ![enlace](https://github.com/JimeFioni/P_INTEGRADOR_M_LEARNING/Predicion_precios/ML_cars.csv)
 
 ## Preparación de datos 🚗
 El notebook con el procesamiento y modelaje se encuentra ![aqui](/Predicion_precios/regresionmultiple.ipynb)
